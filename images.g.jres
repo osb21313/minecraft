@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQNABcAAAAAD/8AAAAAAAAAAADw/u4PAAAA/w8AAADw7v4AD///2f0A8A/v7g///Zn5////vw/v7v7d3Z+ZmcbM/A/w7v7/3Z+Zmfb/vw/v7u4R3Z+ZmcbMvA//7t7d3Z+ZmcbMvA/w7t7d/ZmZ/8/MvA/w7u7un/n/2f3PvA8A7+7/n5mZ2f3w/w8A8P8A8JmZ2f0AAAAAAAAAAP///w8AAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Steve"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
